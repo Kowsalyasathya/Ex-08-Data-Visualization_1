@@ -20,7 +20,6 @@ Apply data visualization techniques to identify the patterns of the data.
 # CODE:
 ```
 NAME:KOWSALYA M
-
 REGISTER NUMBER:212222230069
 
 Data Preprocessing
